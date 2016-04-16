@@ -11,12 +11,12 @@ My Settings & Monokai theme for Android Studio.
 1. Download the [theme-monokai.jar][] or clone this repository.
 2. In Android Studio choose File > Import Settings > Choose [theme-monokai.jar][].
 
-### Wanna all my settings?
+### Wanna all my settings? (Include Monokai theme)
 
 1. Download the [settings-all.jar][] or clone this repository.
 2. In Android Studio choose File > Import Settings > Choose [settings-all.jar][].
 
-### Credits
+## Credits
 
 * [benmarten/MonokaiAndroidStudio][]
 
